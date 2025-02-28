@@ -1,0 +1,7 @@
+export enum GymStatus {
+  ACTIVE = 'ACTIVE',
+  INACTIVE = 'INACTIVE',
+  PENDING = 'PENDING',
+  SUSPENDED = 'SUSPENDED',
+  DELETED = 'DELETED',
+}
