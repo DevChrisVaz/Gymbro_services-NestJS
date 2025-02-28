@@ -1,8 +1,8 @@
 {
   "name": "gymbro_services-nestjs",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Gymbro api services",
+  "author": "Christian Alexander Vazquez Gonzalez",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
